@@ -1,0 +1,26 @@
+{
+  "name": "taskmodule__del",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arwidt/taskmodule__copy.git"
+  },
+  "keywords": [],
+  "author": "Arwid Thornstrom <arwidt@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arwidt/taskmodules__del/issues"
+  },
+  "homepage": "https://github.com/arwidt/taskmodules__del#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "async": "^2.0.1",
+    "gulp": "^3.9.1",
+    "taskmodule__copy": "^1.0.2"
+  }
+}
