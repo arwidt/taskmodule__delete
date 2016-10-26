@@ -1,4 +1,3 @@
-var fse = require('node-fs-extra');
 var del = require('del');
 
 module.exports = function(paths) {
