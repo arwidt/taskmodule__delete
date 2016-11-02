@@ -1,6 +1,6 @@
 {
   "name": "taskmodule__delete",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "GulpTaskModule to delete files and folders, works good with async.js",
   "main": "index.js",
   "scripts": {
