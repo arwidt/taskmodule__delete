@@ -1,16 +1,23 @@
 {
-  "name": "taskmodule__del",
-  "version": "1.0.0",
-  "description": "",
+  "name": "taskmodule__delete",
+  "version": "0.9.0",
+  "description": "GulpTaskModule to delete files and folders, works good with async.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arwidt/taskmodule__copy.git"
+    "url": "git+https://github.com/arwidt/taskmodule__browserify.git"
   },
-  "keywords": [],
+  "keywords": [
+    "buildscript",
+    "gulp",
+    "delete",
+    "del",
+    "commonjs",
+    "gulp-task"
+  ],
   "author": "Arwid Thornstrom <arwidt@gmail.com>",
   "license": "ISC",
   "bugs": {
