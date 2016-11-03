@@ -24,7 +24,9 @@
     "url": "https://github.com/arwidt/taskmodules__del/issues"
   },
   "homepage": "https://github.com/arwidt/taskmodules__del#readme",
-  "dependencies": {},
+  "dependencies": {
+    "del": "^2.2.2"
+  },
   "devDependencies": {
     "async": "^2.0.1",
     "gulp": "^3.9.1",
